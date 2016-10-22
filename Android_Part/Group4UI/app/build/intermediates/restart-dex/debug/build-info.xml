@@ -4,30 +4,40 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="172941912940246"
+    timestamp="180569268856047"
     token="1634160726888884721" >
 
     <task
         name="javac"
-        duration="1067" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="337" />
+        duration="0" />
     <task
         name="verifier"
-        duration="113" />
+        duration="0" />
 
     <artifact
-        location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="172941912940246" >
+    <build timestamp="180422685155502" >
         <artifact
             location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="180513117315301" >
+        <artifact
+            location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="180569268856047" >
+        <artifact
+            location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

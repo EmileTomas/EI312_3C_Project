@@ -34,7 +34,7 @@ public class BottomButton extends Button implements Selectable {
     public void setUnselected(){
         setTextColor(ContextCompat.getColor(getContext(),unselected_color));
         if(unselected_image!=0)
-            setCompoundDrawablesWithIntrinsicBounds(null,ContextCompat.getDrawable(getContext(),unselected_color),null,null);
+            setCompoundDrawablesWithIntrinsicBounds(null,ContextCompat.getDrawable(getContext(),unselected_image),null,null);
     }
 
 
