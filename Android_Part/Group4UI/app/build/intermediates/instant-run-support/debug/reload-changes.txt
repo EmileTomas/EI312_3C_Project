@@ -1,0 +1,12 @@
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GesturePathFragment$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\VideoFragment$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GesturesFragment$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\Activity\MainActivity$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GestureFlexibleFragment$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\VideoFragment$1$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GestureSimpleFragment$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GesturesFragment$1$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GesturesFragment$2$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\VideoFragment$2$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\GesturesFragment$3$override.class

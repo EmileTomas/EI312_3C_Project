@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_simple.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\fragment_simple.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_simple_voice.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\fragment_simple_voice.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepathfragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\gesturepathfragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\isrdemo.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_simple_button.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\fragment_simple_button.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoconfig.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\videoconfig.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabfragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\tabfragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_face_recognization.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\activity_face_recognization.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\activity_ip.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_simple_gravity.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\fragment_simple_gravity.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturesimplefragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\gesturesimplefragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vactivity_main.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\vactivity_main.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\role_list.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\role_list.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_session.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\video_session.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_live_video.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\activity_live_video.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_frame.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\video_frame.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesturesfragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\gesturesfragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestureflexiblefragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\gestureflexiblefragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videofragment.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\layout\\videofragment.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    }
+]
