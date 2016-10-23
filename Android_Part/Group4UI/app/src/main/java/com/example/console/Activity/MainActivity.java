@@ -43,9 +43,9 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     private SelectableButton bottom_btn_gesture;
     private SelectableButton bottom_btn_video;
 
-    private SimpleFragment simpleFrag;
-    private GesturesFragment gestureFrag;
-    private VideoFragment videoFrag;
+    private String simpleFrag=SimpleFragment.class.getName();
+    private String  gestureFrag=GesturesFragment.class.getName();
+    private String videoFrag=VideoFragment.class.getName();
     ClickTabsPager clickTabsPager;
 
     @Override
@@ -66,9 +66,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         bottom_btn_simple = (SelectableButton) findViewById(R.id.btn_simple);
         bottom_btn_gesture = (SelectableButton) findViewById(R.id.btn_gesture);
         bottom_btn_video = (SelectableButton) findViewById(R.id.btn_video);
-        simpleFrag=new SimpleFragment();
-        gestureFrag=new GesturesFragment();
-        videoFrag=new VideoFragment();
     }
 
 
@@ -83,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         selectableButtons.setSelectedColor(R.color.white).setUnselectedColor(R.color.sub_theme);
         initializeButtonImageSet();
 
-        ArrayList<Fragment> fragments=new ArrayList<>();
+        ArrayList<String> fragments=new ArrayList<>();
         fragments.add(simpleFrag);
         fragments.add(gestureFrag);
         fragments.add(videoFrag);

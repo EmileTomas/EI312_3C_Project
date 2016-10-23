@@ -59,7 +59,7 @@ public class SimpleFragment extends android.support.v4.app.Fragment{
 		//set Adapter for ViewPager
 		swipeTabsPagerAdapter = new SwipeTabsPagerAdapter(mainActivity.getSupportFragmentManager(),list_fragment, list_tab);
 		viewPager.setAdapter(swipeTabsPagerAdapter);
-		viewPager.setOffscreenPageLimit(3);
+		viewPager.setOffscreenPageLimit(0);
 
 		//TabLayout加载viewpager
 		tabLayout.setupWithViewPager(viewPager, true);

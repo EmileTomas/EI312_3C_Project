@@ -1,6 +1,7 @@
 package com.example.console.Fragment.SimpleFragment;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -30,6 +31,20 @@ public class ModeButtonFragment extends android.support.v4.app.Fragment {
         set_click_listener();   //此函数未解耦
 
         return view;
+    }
+
+
+
+
+    @Override
+    public void setUserVisibleHint(boolean isVisibleToUser) {
+        super.setUserVisibleHint(isVisibleToUser);
+        if (isVisibleToUser) {
+            //TODO now it's visible to user
+        } else {
+            Log.d("Debuggggg", "onPause: aaaaa");
+            //do some stuff
+        }
     }
 
     private void initialize_directionButtons(View view) {
@@ -98,6 +113,7 @@ public class ModeButtonFragment extends android.support.v4.app.Fragment {
                 Pub.sendMessage("s");
             }
         });
+
     }
 
     private void set_direction(int id,ArrayList<DirectionButton> directionButtons) {

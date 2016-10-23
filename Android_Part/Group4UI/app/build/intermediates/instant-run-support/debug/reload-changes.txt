@@ -1,2 +1,3 @@
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\Activity\MainActivity$override.class
 CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\Adapter\ClickTabsPager$override.class
+CHANGED,F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\console\Fragment\GestureFragment\GesturesFragment$override.class

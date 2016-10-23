@@ -23,9 +23,9 @@ public class GesturesFragment extends Fragment implements OnClickListener {
     private SelectableButton btn_gesture_path;
     private SelectableButtonList buttonList;
 
-    private GestureSimpleFragment gesture_simple_frag;
-    private GestureFlexibleFragment gesture_flexible_frag;
-    private GesturePathFragment gesture_path_frag;
+    private String gesture_simple_frag=GestureSimpleFragment.class.getName();
+    private String gesture_flexible_frag=GestureFlexibleFragment.class.getName();
+    private String gesture_path_frag=GesturePathFragment.class.getName();
 
     ClickTabsPager clickTabsPager;
 
@@ -43,9 +43,6 @@ public class GesturesFragment extends Fragment implements OnClickListener {
         btn_gesture_simple = (SelectableButton) view.findViewById(R.id.btn_gesture_simple);
         btn_gesture_flexible = (SelectableButton) view.findViewById(R.id.btn_gesture_flexible);
         btn_gesture_path = (SelectableButton) view.findViewById(R.id.btn_gesture_path);
-        gesture_simple_frag = new GestureSimpleFragment();
-        gesture_flexible_frag = new GestureFlexibleFragment();
-        gesture_path_frag = new GesturePathFragment();
     }
 
 
@@ -59,7 +56,7 @@ public class GesturesFragment extends Fragment implements OnClickListener {
         buttonList = new SelectableButtonList(btn_gesture_simple, btn_gesture_flexible, btn_gesture_path);
         buttonList.setSelectedColor(R.color.white).setUnselectedColor(R.color.sub_theme);
 
-        ArrayList<Fragment> fragments = new ArrayList<>();
+        ArrayList<String> fragments = new ArrayList<>();
         fragments.add(gesture_simple_frag);
         fragments.add(gesture_flexible_frag);
         fragments.add(gesture_path_frag);
