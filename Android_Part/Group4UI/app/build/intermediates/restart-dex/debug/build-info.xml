@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="180569268856047"
+    timestamp="236087800470246"
     token="1634160726888884721" >
 
     <task
@@ -20,24 +20,24 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="180422685155502" >
+    <build timestamp="234546405963526" >
         <artifact
             location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="180513117315301" >
+    <build timestamp="235419487801216" >
+        <artifact
+            location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="235836577177562" >
         <artifact
             location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="180569268856047" >
-        <artifact
-            location="F:\Onedrive\Work\Github\EI312_eelab-3C\Android_Part\Group4UI\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
+    <build timestamp="236087800470246" />
 
 </instant-run>

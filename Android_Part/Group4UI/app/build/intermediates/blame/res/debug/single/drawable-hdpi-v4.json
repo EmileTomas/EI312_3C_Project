@@ -268,12 +268,12 @@
         "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\simplewhite.png",
-        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\drawable-hdpi\\simplewhite.png"
-    },
-    {
         "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\simplewhite.png",
+        "source": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\src\\main\\res\\drawable-hdpi\\simplewhite.png"
     },
     {
         "merged": "F:\\Onedrive\\Work\\Github\\EI312_eelab-3C\\Android_Part\\Group4UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speak_on.png",

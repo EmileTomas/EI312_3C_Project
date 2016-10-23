@@ -24,7 +24,7 @@
     <color name="aqua">#00FFFF</color>
     <color name="aquamarine">#7FFFD4</color>
     <color name="azure">#F0FFFF</color>
-    <color name="background">#ffffcc</color>
+    <color name="background">#ffffff</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -225,7 +225,8 @@
     <color name="snow">#FFFAFA</color>
     <color name="springgreen">#00FF7F</color>
     <color name="steelblue">#4682B4</color>
-    <color name="subtab">#cc99cc</color>
+    <color name="sub_theme">#0097A7</color>
+    <color name="subtab">#00FFFF</color>
     <color name="surrounding_area">@color/black_translucent</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>

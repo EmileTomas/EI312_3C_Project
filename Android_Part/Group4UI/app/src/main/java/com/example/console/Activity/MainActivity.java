@@ -23,8 +23,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
 
+import com.example.console.Adapter.ClickTabsPager;
 import com.example.console.AsrDemo;
-import com.example.console.GesturesFragment;
+import com.example.console.Fragment.GestureFragment.GesturesFragment;
 import com.example.console.IPAddressActivity;
 import com.example.console.Pub;
 import com.example.console.R;
@@ -38,17 +39,14 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     private static final String MSPMAC = "98:D3:31:70:9F:C2";
     private BluetoothDevice mDevice;
 
-    private BottomButton bottom_btn_simple;
-    private BottomButton bottom_btn_gesture;
-    private BottomButton bottom_btn_video;
+    private SelectableButton bottom_btn_simple;
+    private SelectableButton bottom_btn_gesture;
+    private SelectableButton bottom_btn_video;
 
     private SimpleFragment simpleFrag;
     private GesturesFragment gestureFrag;
     private VideoFragment videoFrag;
-    
-    private final int SIMPLE_FRAGMENT = 0;
-    private final int GESTURES_FRAGMENT = 1;
-    private final int VIDEO_FRAGMENT = 2;
+    ClickTabsPager clickTabsPager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,17 +56,39 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         askPermision();
         initializeWidgets();
         initializeWidgetsClickListener();
+        initializeClickTabsPager();
 
-        showFragment(SIMPLE_FRAGMENT);
+        clickTabsPager.setItemSelected(bottom_btn_simple.getId());
     }
 
     //Question: Is this a good way to splite one function like this into several functions?
     private void initializeWidgets(){
-        bottom_btn_simple = (BottomButton) findViewById(R.id.btn_simple);
-        bottom_btn_gesture = (BottomButton) findViewById(R.id.btn_gesture);
-        bottom_btn_video = (BottomButton) findViewById(R.id.btn_video);
+        bottom_btn_simple = (SelectableButton) findViewById(R.id.btn_simple);
+        bottom_btn_gesture = (SelectableButton) findViewById(R.id.btn_gesture);
+        bottom_btn_video = (SelectableButton) findViewById(R.id.btn_video);
+        simpleFrag=new SimpleFragment();
+        gestureFrag=new GesturesFragment();
+        videoFrag=new VideoFragment();
+    }
 
+
+    private void initializeWidgetsClickListener(){
+        bottom_btn_simple.setOnClickListener(this);
+        bottom_btn_gesture.setOnClickListener(this);
+        bottom_btn_video.setOnClickListener(this);
+    }
+
+    private void initializeClickTabsPager(){
+        SelectableButtonList selectableButtons = new SelectableButtonList(bottom_btn_simple,bottom_btn_gesture,bottom_btn_video);
+        selectableButtons.setSelectedColor(R.color.white).setUnselectedColor(R.color.sub_theme);
         initializeButtonImageSet();
+
+        ArrayList<Fragment> fragments=new ArrayList<>();
+        fragments.add(simpleFrag);
+        fragments.add(gestureFrag);
+        fragments.add(videoFrag);
+
+        clickTabsPager=new ClickTabsPager(selectableButtons,fragments,getSupportFragmentManager(),R.id.content);
     }
 
     private void initializeButtonImageSet(){
@@ -80,73 +100,11 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
                 .setUnselected_image(R.drawable.videogray);
     }
 
-    private void initializeWidgetsClickListener(){
-        bottom_btn_simple.setOnClickListener(this);
-        bottom_btn_gesture.setOnClickListener(this);
-        bottom_btn_video.setOnClickListener(this);
+
+    @Override
+    public void onClick(View view) {
+        clickTabsPager.setItemSelected(view.getId());
     }
-
-    private void showFragment(int index) {
-        ArrayList<BottomButton> bottomButtons=getArrayList(bottom_btn_simple,bottom_btn_gesture,bottom_btn_video);
-
-        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
-        hideFragement(fragmentTransaction);
-        switch (index) {
-            case SIMPLE_FRAGMENT:
-                selectButton(bottomButtons,bottom_btn_simple.getId());
-                if (simpleFrag == null) {
-                    simpleFrag = new SimpleFragment();
-                    fragmentTransaction.add(R.id.content, simpleFrag);
-                } else
-                    fragmentTransaction.show(simpleFrag);
-                break;
-            case GESTURES_FRAGMENT:
-                selectButton(bottomButtons,bottom_btn_gesture.getId());
-                if (gestureFrag == null) {
-                    gestureFrag = new GesturesFragment();
-                    fragmentTransaction.add(R.id.content, gestureFrag);
-                } else
-                    fragmentTransaction.show(gestureFrag);
-                break;
-            case VIDEO_FRAGMENT:
-                selectButton(bottomButtons,bottom_btn_video.getId());
-                if (videoFrag == null) {
-                    videoFrag = new VideoFragment();
-                    fragmentTransaction.add(R.id.content, videoFrag);
-                } else
-                    fragmentTransaction.show(videoFrag);
-                break;
-        }
-        fragmentTransaction.commit();
-    }
-
-    private <T> ArrayList<T> getArrayList(T... elements){
-        ArrayList<T> arrayList=new ArrayList<>();
-        for(T element: elements){
-            arrayList.add(element);
-        }
-        return arrayList;
-    }
-
-
-    private void selectButton(ArrayList<BottomButton> bottomButtons,int id){
-        for(BottomButton element: bottomButtons){
-            if( element.getId()==id)
-                element.setSelected();
-            else
-                element.setUnselected();
-        }
-    }
-
-    private void hideFragement(FragmentTransaction fragmentTransaction) {
-        if (simpleFrag != null)
-            fragmentTransaction.hide(simpleFrag);
-        if (gestureFrag != null)
-            fragmentTransaction.hide(gestureFrag);
-        if (videoFrag != null)
-            fragmentTransaction.hide(videoFrag);
-    }
-
 
     protected void onDestroy() {
         super.onDestroy();
@@ -161,21 +119,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
             Pub.mSocket = null;
         }
         Pub.mSocket = null;
-    }
-
-    @Override
-    public void onClick(View view) {
-        switch (view.getId()) {
-            case R.id.btn_simple:
-                showFragment(SIMPLE_FRAGMENT);
-                break;
-            case R.id.btn_gesture:
-                showFragment(GESTURES_FRAGMENT);
-                break;
-            case R.id.btn_video:
-                showFragment(VIDEO_FRAGMENT);
-                break;
-        }
     }
 
     @Override

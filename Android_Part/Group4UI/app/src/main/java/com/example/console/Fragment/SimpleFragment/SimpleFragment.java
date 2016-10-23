@@ -1,6 +1,5 @@
 package com.example.console.Fragment.SimpleFragment;
 
-import android.app.Fragment;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
@@ -9,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.console.Activity.MainActivity;
-import com.example.console.Adapter.TabsPagerAdapter;
+import com.example.console.Adapter.SwipeTabsPagerAdapter;
 import com.example.console.R;
 
 import java.util.ArrayList;
@@ -19,7 +18,7 @@ public class SimpleFragment extends android.support.v4.app.Fragment{
 	private ViewPager viewPager;
 	private ArrayList<android.support.v4.app.Fragment> list_fragment;
 	private ArrayList<String> list_tab;
-	private TabsPagerAdapter tabsPagerAdapter;
+	private SwipeTabsPagerAdapter swipeTabsPagerAdapter;
 	/*
 	private Button btn_mode_button;
 	private Button btn_mode_gravity;
@@ -58,8 +57,8 @@ public class SimpleFragment extends android.support.v4.app.Fragment{
 		tabLayout.addTab(tabLayout.newTab().setText(list_tab.get(2)));
 
 		//set Adapter for ViewPager
-		tabsPagerAdapter = new TabsPagerAdapter(mainActivity.getSupportFragmentManager(),list_fragment, list_tab);
-		viewPager.setAdapter(tabsPagerAdapter);
+		swipeTabsPagerAdapter = new SwipeTabsPagerAdapter(mainActivity.getSupportFragmentManager(),list_fragment, list_tab);
+		viewPager.setAdapter(swipeTabsPagerAdapter);
 		viewPager.setOffscreenPageLimit(3);
 
 		//TabLayout加载viewpager

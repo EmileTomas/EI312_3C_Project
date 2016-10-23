@@ -3,9 +3,9 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
 
     <color name="theme">#00BCD4</color>
-    <color name="background">#ffffcc</color>
-    <color name="subtab">#cc99cc</color>
-
+    <color name="background">#ffffff</color>
+    <color name="subtab">#00FFFF</color>
+    <color name="sub_theme">#0097A7</color>
     <color name="dark_grey">#282828</color>
     <color name="trans_dark_grey">#80282828</color>
     <color name="trans_white">#20ffffff</color>
